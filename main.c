@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "header.h"
+#include "headers/header.h"
 
 int main(void) {
     printf("%d", getFavNum());
