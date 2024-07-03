@@ -1,0 +1,6 @@
+# ninja log v5
+8	199	1719990218376085687	CMakeFiles/advanced_C.dir/main.c.o	ba786b08f5baaf15
+200	328	1719990218505798857	advanced_C	c31f1b145c59f86e
+5	147	1719990562110907120	CMakeFiles/advanced_C.dir/main.c.o	ba786b08f5baaf15
+5	149	1719990562110908412	CMakeFiles/advanced_C.dir/header.c.o	ef90d338dc2eec37
+149	282	1719990562247106260	advanced_C	6dc03360b934fed7
