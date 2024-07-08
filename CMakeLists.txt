@@ -4,9 +4,14 @@ project(advanced_C C)
 # Specify the C standard
 set(CMAKE_C_STANDARD 11)
 
-# Add executables
+# Add the main executable
 add_executable(advanced_C
         main.c
-        header.c
+        storage-class-chall/display.c
+)
+
+# Add the executable for the storage-class-chall directory
+add_executable(storage_class_chall
         storage-class-chall/main.c
+        storage-class-chall/util.c
 )

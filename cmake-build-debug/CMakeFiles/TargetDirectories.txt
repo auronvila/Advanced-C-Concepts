@@ -1,3 +1,4 @@
 /Users/auronvila/Desktop/desktop/projects/advanced-C/cmake-build-debug/CMakeFiles/advanced_C.dir
+/Users/auronvila/Desktop/desktop/projects/advanced-C/cmake-build-debug/CMakeFiles/storage_class_chall.dir
 /Users/auronvila/Desktop/desktop/projects/advanced-C/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/auronvila/Desktop/desktop/projects/advanced-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
